@@ -1,0 +1,4 @@
+numpy
+statsmodels
+factor_analyzer
+pandas
